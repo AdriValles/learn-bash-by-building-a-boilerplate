@@ -153,3 +153,11 @@ find
 find client
 find --help
 find -name index.html
+find -name style.css
+find -name style.css
+cd /workspace/project/website
+ls --color=auto
+find -name style.css
+find -name index.html
+find -name style.css
+find -name styles.css
