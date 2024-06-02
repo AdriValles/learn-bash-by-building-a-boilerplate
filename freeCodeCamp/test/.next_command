@@ -52,3 +52,4 @@ echo hello terminal
 cd /workspace/project
 pwd
 ls --color=auto
+cd freeCodeCamp
